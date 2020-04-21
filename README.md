@@ -1,4 +1,4 @@
-# k8s rebrain cource
+# k8s course
 ### Get started
 
 1. Install Kubernetes & WeavNet plug-in by following these steps.
